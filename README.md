@@ -53,19 +53,18 @@
 </p>
 
 ---
-
 ### 📊 **GitHub Stats**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrdanial&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrdanialahsan&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 **GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahrdanial&theme=radical&margin-w=15&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahrdanialahsan&theme=radical&margin-w=15&column=7)
 
 ---
 
 ### 📈 **Contribution Stats**
-![GitHub Streak](https://streak-stats.demolab.com?user=mahrdanial&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=mahrdanialahsan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
