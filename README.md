@@ -11,6 +11,7 @@
 - 🛠️ Expertise in **APIs, Payment Gateways, Medical Imaging, VoIP, SaaS apps**  
 - 🌐 Building digital products under **Wave Shore Marketing** and **Shwanix Technologies**  
 - 🚀 Passionate about delivering scalable systems, integrations & real-world solutions  
+- 🌍 Portfolio: **[mahrdanial.com](https://mahrdanial.com)**  
 
 ---
 
@@ -23,14 +24,15 @@
 
 ### 📞 **Let’s Connect**
 - 📧 **Email:** [mahrdanial@gmail.com](mailto:mahrdanial@gmail.com), [connect@mahrdanial.com](mailto:connect@mahrdanial.com)  
-- 🌍 **Website:** [mahrdanial.com](https://mahrdanial.com)  
-- 🏢 **Company:** [shwanix.com](https://shwanix.com)  
+- 🌍 **Personal Website:** [mahrdanial.com](https://mahrdanial.com)  
+- 🏢 **Company Website:** [shwanix.com](https://shwanix.com)  
 - 💼 **LinkedIn:** [Danial Ahsan](https://www.linkedin.com/in/danial-ahsan-55585491/)  
 
 <p>
 <a href="https://wa.me/923426622005"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://www.fiverr.com/mahrdanialahsan?public_mode=true"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 <a href="https://www.upwork.com/freelancers/~01dd72c0e212d7409c?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="https://mahrdanial.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
